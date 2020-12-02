@@ -1,0 +1,2 @@
+This is GitHub file
+Can be used for advanced setting
